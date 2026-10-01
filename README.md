@@ -6,12 +6,6 @@ This repository is organized according to the robotics project pages supplied fr
 
 Each project is kept in its own folder.
 
-Inside every project:
-
-* `code/` — Arduino source code only
-* `images/book-pages/` — relevant pages from the supplied book
-* `images/reference/` — additional reference images
-* `docs/` — English notes, components, wiring, and project information
 
 The Arduino code is intentionally separated from the documentation and images.
 
