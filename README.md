@@ -1,6 +1,6 @@
 # Robotics – Robot Movement 
 
-A clean, simple, multi-language website based on the Bangla robotics book **সুখীর উল্লাসে রোবটিক্স** (Robot Movement / রোবটের নড়াচড়া).
+A clean, simple, multi-language website based on the Bangla robotics book(Robot Movement / রোবটের নড়াচড়া).
 
 ## Features
 
